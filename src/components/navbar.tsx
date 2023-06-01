@@ -9,9 +9,9 @@ export default function Navbar() {
             <a href="#" className="text-white text-lg font-semibold">FlixDB</a>
           </div>
           <div className="hidden md:flex md:space-x-4">
-            <a href="#home" className="text-gray-300 hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium">Home</a>
-            <a href="#home" className="text-gray-300 hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium">Movies</a>
-            <a href="#home" className="text-gray-300 hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium">TV Shows</a>
+            <a href="/" className="text-gray-300 hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium">Home</a>
+            <a href="/Movies" className="text-gray-300 hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium">Movies</a>
+            <a href="/Shows" className="text-gray-300 hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium">TV Shows</a>
           </div>
         </div>
       </div>
