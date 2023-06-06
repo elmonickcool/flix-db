@@ -11,7 +11,6 @@ export default function Page() {
     <div className="flex justify-center items-center mt-4">
         <SearchBar />
       </div>
-    
     </>
     
   );
