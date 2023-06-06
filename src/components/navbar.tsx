@@ -31,6 +31,12 @@ export default function Navbar() {
             >
               TV Shows
             </a>
+            <a
+              href="/Search"
+              className="text-white hover:bg-yellow-500 hover:text-black px-3 py-2 rounded-md text-base font-medium"
+            >
+              Search
+            </a>
           </div>
         </div>
       </div>
