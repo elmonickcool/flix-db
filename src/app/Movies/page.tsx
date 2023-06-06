@@ -1,5 +1,8 @@
 export default function Page() {
     return (
-    <h1>Hello, Movie Page!</h1>
+      <>
+      <h1>Latest Movie</h1>
+      </>
+    
     );
   }
